@@ -1,5 +1,5 @@
 import tshirt from "../assets/images/T-shirt.png";
-import Jeans from "../assets/images/jeans.png";
+import Jeans from "../assets/images/Jeans.png";
 import shirt from "../assets/images/Shirt.png";
 import slevestshirt from "../assets/images/slevestshirt.png";
 import rating from "../assets/images/rating.svg";
