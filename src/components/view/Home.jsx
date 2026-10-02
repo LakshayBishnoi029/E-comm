@@ -6,12 +6,14 @@ import TopSelling from '../TopSelling'
 import DressStyle from '../DressStyle'
 import HappyCustomers from '../HappyCustomer'
 import Newsletter from '../NewsLetter'
+import Cart from '../Cart'
 
 const home = () => {
   return (
     <>
      
     <Hero/>
+  
     <BrandStrip/>
     <NewArrivals/>
     <TopSelling/>
