@@ -1,12 +1,12 @@
 import Navbar from "./components/Navbar";
 
-import Cart from "./components/cart";
+import Cart from "./components/Cart";
 import TopBanner from "./components/TopBanner";
 
 import { Routes, Route } from "react-router-dom";
 
 import Home from "./components/view/Home";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
